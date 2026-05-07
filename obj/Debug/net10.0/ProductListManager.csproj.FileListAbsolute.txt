@@ -12,3 +12,4 @@ C:\Users\MagoS\Desktop\Lexicon_2026\ProductListManager\ProductListManager\obj\De
 C:\Users\MagoS\Desktop\Lexicon_2026\ProductListManager\ProductListManager\obj\Debug\net10.0\ProductListManager.pdb
 C:\Users\MagoS\Desktop\Lexicon_2026\ProductListManager\ProductListManager\obj\Debug\net10.0\ProductListManager.genruntimeconfig.cache
 C:\Users\MagoS\Desktop\Lexicon_2026\ProductListManager\ProductListManager\obj\Debug\net10.0\ref\ProductListManager.dll
+C:\Users\MagoS\Desktop\Lexicon_2026\ProductListManager\ProductListManager\obj\Debug\net10.0\ProductListManager.sourcelink.json
