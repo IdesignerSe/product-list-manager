@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 class Program
 {
@@ -15,7 +16,7 @@ class Program
             while (true)
         {
             Console.Write("Product: ");
-            string input = Console.ReadLine();
+            string? input = Console.ReadLine();
 
             if (input == null)
                 continue;
@@ -37,6 +38,7 @@ class Program
         }
 
         Console.WriteLine("\nPress any key to exit...");
-        Console.ReadKey();
+        Console.ReadLine();    
+        }
     }
 }
