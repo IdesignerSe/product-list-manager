@@ -54,7 +54,8 @@ class Program
         }
 
         Console.WriteLine("\nPress any key to continue...");
-        Console.ReadLine();    }
+        Console.ReadLine();    
+        }
 
     static bool IsValidProduct(string product, out string errorMessage)
     {
